@@ -1,3 +1,4 @@
+I'm adding a line to see the difference
 This is lab1 of the intro to Git/Github
 This is the text for lab1
 And the final line of text for lab1	
